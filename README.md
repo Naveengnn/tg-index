@@ -13,7 +13,7 @@
 * Clone to local machine.
 
 ```bash
-$ git clone https://github.com/odysseusmax/tg-index.git
+$ git clone https://github.com/Naveengnn/tg-index.git
 $ cd tg-index
 ```
 
